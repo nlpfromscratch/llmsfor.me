@@ -4,9 +4,9 @@ A Pay-What-You-Can (PWYC) Microcourse in Large Language Models
 
 <img src="assets/llmsforme_coverimage.png"/>
 
-**Date**: 📅 January-February 2025
+**Date**: 📅 January-February 2025  
 **Author** ✍️: Myles Harrison, AI Consultant & Trainer  
-**Link** 🔗: [llmsfor.me](https://llmsfor.me)
+**Link** 🔗: [llmsfor.me](https://llmsfor.me)  
 
 ## Curriculum
 The course covers the following at a high level, with simple code examples to get the non-technical practitioner unfamiliar with LLMs and Generative AI started:
