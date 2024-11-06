@@ -29,4 +29,6 @@ The course covers the following at a high level, with simple code examples to ge
 
 ### Count me in! Where do I register? 
 
-<a href="https://forms.gle/btcRSHxYjVA8XjK26"/><button style="background-color: black; color: white; border: none; padding: 12px 24px; font-size: 16px; cursor: pointer; border-radius: 10px;"/>Sign me up!</button></a>
+Click below to join the waitlist 👇
+
+<a href="https://forms.gle/btcRSHxYjVA8XjK26"/><img src="assets/button_sign-me-up.png"/></a>
