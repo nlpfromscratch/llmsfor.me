@@ -1,21 +1,3 @@
-<style type="text/css">
-
-.cta-button {
-  background-color: black;
-  color: white;
-  border: none;
-  padding: 12px 24px;
-  font-size: 16px;
-  cursor: pointer;
-  border-radius: 10px;
-}
-
-.cta-button:hover {
-  background-color: #333;
-}
-
-</style>
-
 # LLMsfor.me 🔠⚡🤖🧠😃
 
 A Pay-What-You-Can (PWYC) Microcourse in Large Language Models
@@ -49,4 +31,17 @@ The course covers the following at a high level, with simple code examples to ge
 
 Click the button below! 👇
 
-<a href="https://forms.gle/btcRSHxYjVA8XjK26"/><button class="cta-button">Sign me up!</button></a>
+<style type="text/css">
+
+.cta-button {
+}
+
+.cta-button:hover {
+  background-color: #333;
+}
+
+</style>
+
+
+
+<a href="https://forms.gle/btcRSHxYjVA8XjK26"/><button style="background-color: black; color: white; border: none; padding: 12px 24px; font-size: 16px; cursor: pointer; border-radius: 10px;"/>Sign me up!</button></a>
