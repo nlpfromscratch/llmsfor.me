@@ -27,6 +27,6 @@ The course covers the following at a high level, with simple code examples to ge
 
 ### Count me in! Where do I register? 
 
-Click below to join the waitlist 👇
+Click below to register 👇
 
-<a href="https://forms.gle/btcRSHxYjVA8XjK26"/><img src="assets/button_sign-me-up.png"/></a>
+<a href="https://nlpfromscratch.com/llmsforme#booking-anchor"/><img src="assets/button_sign-me-up.png"/></a>
