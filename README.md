@@ -20,9 +20,7 @@ The course covers the following at a high level, with simple code examples to ge
 ## Details 
 ### Course Overview:
 - ⌛ Duration: 6 Weeks, January-February 2025  
-- 📅 Dates: 
-  - Mondays 7-10 PM EST: Jan 6th to Feb 10th - North America Section
-  - Wednesdays 2-5 PM EST: Jan 8th to Feb 12th - Europe / Asia Section
+- 📅 Dates: Mondays 7-10 PM EST: Jan 6th to Feb 10th
 - 🕒 Sessions: 6 Sessions, 3 Hours Each  
 - 💻 Format: Live Online, Interactive Sessions via Google Meet  
 - 💰 Pricing: [Pay What You Can (PWYC)](https://www.nlpfromscratch.com/pwyc)
