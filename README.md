@@ -2,7 +2,7 @@
 
 A Pay-What-You-Can (PWYC) Microcourse in Large Language Models
 
-<img src="../assets/images/llmsforme_coverimage.png"/>
+<img src="assets/images/llmsforme_coverimage.png"/>
 
 **Date**: 📅 January-February 2025  
 **Author** ✍️: Myles Harrison, AI Consultant & Trainer  
@@ -17,27 +17,27 @@ At NLP from scratch, I believe that education should be accessible to everyone, 
 ## Curriculum
 The course covers the following at a high level, with simple code examples to get the non-technical practitioner unfamiliar with LLMs and Generative AI started:
 - **Part 1 - Introduction to LLMs and Generative Text**
-  - Slides: <a href="llmsfor.me/slides/1. LLMs for me - Introduction LLMs & Generative Text.pdf">1. LLMs for me - Introduction LLMs & Generative Text.pdf</a> 
-  - Notebook: <a href="llmsfor.me/notebooks/1. LLMs for me - Intro to LLMs & Generative Text.ipynb">1. LLMs for me - Intro to LLMs & Generative Text.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/1.%20LLMs%20for%20me%20-%20Intro%20to%20LLMs%20%26%20Generative%20Text.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+  - Slides: <a href="slides/1. LLMs for me - Introduction LLMs & Generative Text.pdf">1. LLMs for me - Introduction LLMs & Generative Text.pdf</a> 
+  - Notebook: <a href="notebooks/1. LLMs for me - Intro to LLMs & Generative Text.ipynb">1. LLMs for me - Intro to LLMs & Generative Text.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/notebooks/1.%20LLMs%20for%20me%20-%20Intro%20to%20LLMs%20%26%20Generative%20Text.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 2 - Fine-tuning LLMs, PEFT and Quantization**
-  - Slides: <a href="llmsfor.me/slides/2. LLMS for me - Fine-tuning & Quantization.pdf">2. LLMS for me - Fine-tuning & Quantization.pdf</a> 
-  - Notebook: <a href="llmsfor.me/notebooks/2. LLMs for me - Fine-tuning & Quantization.ipynb">2. LLMs for me - Fine-tuning & Quantization.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/2.%20LLMs%20for%20me%20-%20Fine-tuning%20&%20Quantization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+  - Slides: <a href="slides/2. LLMS for me - Fine-tuning & Quantization.pdf">2. LLMS for me - Fine-tuning & Quantization.pdf</a> 
+  - Notebook: <a href="notebooks/2. LLMs for me - Fine-tuning & Quantization.ipynb">2. LLMs for me - Fine-tuning & Quantization.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/notebooks/2.%20LLMs%20for%20me%20-%20Fine-tuning%20&%20Quantization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 3 - GPT and the OpenAI Ecosystem**
-  - Slides: <a href="llmsfor.me/slides/3. LLMs for me - GPT & the OpenAI Ecosystem.pdf">3. LLMs for me - GPT & the OpenAI Ecosystem.pdf</a> 
-  - Notebook: <a href="llmsfor.me/notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb">3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+  - Slides: <a href="slides/3. LLMs for me - GPT & the OpenAI Ecosystem.pdf">3. LLMs for me - GPT & the OpenAI Ecosystem.pdf</a> 
+  - Notebook: <a href="notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb">3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 4 - Developing Large Language Model Applications Locally**
-  - Slides: <a href="llmsfor.me/slides/4. LLMs for me - Local LLM Development.pdf">4. LLMs for me - Local LLM Development.pdf</a> 
-  - Code: [ollama_test.py](llmsfor.me/code/ollama_test.py), [openai_test.py](llmsfor.me/code/openai_test.py)
+  - Slides: <a href="slides/4. LLMs for me - Local LLM Development.pdf">4. LLMs for me - Local LLM Development.pdf</a> 
+  - Code: [ollama_test.py](code/ollama_test.py), [openai_test.py](code/openai_test.py)
 - **Part 5 - Multimodal LLMs and Frameworks**
-  - Slides: <a href="llmsfor.me/slides/5. LLMs for me - Multimodal LLMs and Frameworks.pdf">5. LLMs for me - Multimodal LLMs and Frameworks.pdf</a> 
-  - Notebook: <a href="llmsfor.me/notebooks/5. LLMs for me - Multimodal Modals and Frameworks.ipynb">5. LLMs for me - Multimodal Modals and Frameworks.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/5. LLMs for me - Multimodal Modals and Frameworks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+  - Slides: <a href="slides/5. LLMs for me - Multimodal LLMs and Frameworks.pdf">5. LLMs for me - Multimodal LLMs and Frameworks.pdf</a> 
+  - Notebook: <a href="notebooks/5. LLMs for me - Multimodal Modals and Frameworks.ipynb">5. LLMs for me - Multimodal Modals and Frameworks.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/notebooks/5. LLMs for me - Multimodal Modals and Frameworks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 6 - Case Study in LLMs and GenAI**
-  - Slides: <a href="llmsfor.me/slides/6. LLMs for me - Case Study in LLMs & Generative AI.pdf">6. LLMs for me - Case Study in LLMs & Generative AI.pdf</a> 
-  - Code: [casestudy.zip](llmsfor.me/code/casestudy.zip)
+  - Slides: <a href="slides/6. LLMs for me - Case Study in LLMs & Generative AI.pdf">6. LLMs for me - Case Study in LLMs & Generative AI.pdf</a> 
+  - Code: [casestudy.zip](code/casestudy.zip)
 
 Pull everything down at once: `git pull https://github.com/nlpfromscratch/llmsfor.me.git`
 
